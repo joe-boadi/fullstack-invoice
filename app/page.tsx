@@ -33,6 +33,7 @@ export default function Page() {
             alt="Screenshots of the dashboard project showing desktop version"
             width={1000}
             height={750}
+            loading='eager'
             className="hidden md:block"
           />
           <Image
